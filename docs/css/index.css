@@ -14,7 +14,7 @@
 /* Navigation */
 
 body{
-    background: url("../img/PortfolioBg.png");
+    background: url("/IPT_FORLAJE/PortfolioBg.png");
     display: flex;
     flex-direction: column;
     min-height: 100vh;
